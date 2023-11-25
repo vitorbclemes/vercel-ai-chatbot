@@ -1,6 +1,6 @@
 # AI Chatbot with Vercel AI SDK and NextJS
 
-For curiosity purposes, I created a simple chat using the new Vercel AI SDK for text generation using NextJS and TailwindCSS.
+For curiosity purposes, I created a simple chat using the new Vercel AI SDK for text generation using NextJS and TailwindCSS.  
 Refer to Vercel AI SDK docs at: https://sdk.vercel.ai/docs
 
 # How to run it
